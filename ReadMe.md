@@ -60,4 +60,15 @@
   - Description: Implementing the $1 Algorithm, an instance-based nearest-neighbor classifier using a 2-D Euclidean distance function. The project enables the recognition of uni-stroke gestures with 97% accuracy using one loaded template and extends the project with different gestures and analysis.
   - Technologies: Python, Tkinter, ElementTree XML API, CSV, Excel, Matplotlib, GHOST Heatmaps
 
-- **Event Planner
+- **Event Planner** (Software Engineering)
+  - Gainesville, FL
+  - Jan. 2022 - April 2022
+  - Description: Designed a comprehensive web application for browsing, purchasing, and uploading event tickets. Implemented seamless integration between frontend and backend to enable real-time data transfer, reducing page load time by 50%. Integrated Stripe as the payment gateway for transactions.
+  - Technologies: React.js, MySQLite, Go, Stripe, Git, CSS, MongoDB, Jest
+
+- **Peer-to-Peer File Sharing Software** (Computer Networks)
+  - Gainesville, FL
+  - Aug. 2021 - December 2021
+  - Description: Developed a P2P software similar to BitTorrent, breaking files into small chunks. Used a choking-unchoking mechanism and Java socket programming to establish a TCP connection between peers and clients.
+  - Technologies: Java, TCP/IP, Java Socket Programming
+
