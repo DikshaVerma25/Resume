@@ -38,21 +38,24 @@
     - Addressed and filed common errors experienced while running scripts in the local environment.
     - Provided the network flow of the website with attribute length, datatype, and value included.
 
-- **Jr. Software Developer** at Compport
-  - Bhopal, India
-  - May 2021 - Jul. 2021
-  - Responsibilities:
-    - Improved operational efficiency by conducting a comprehensive system analysis and recommending changes to existing policies and procedures, resulting in a 41% increase in productivity.
-    - Demonstrated viable solutions by developing documentation, code comments, and clear code.
-    - Programmed a chatbot using Dialog flow, increasing accessibility by 70% and reducing queries by 35%.
-- **Software Developer co-op** at Compport
-  - Bhopal, India
-  - May 2020 - Dec. 2020
-  - Responsibilities:
-     -I conducted a comprehensive documentation process to outline the workflow and architecture of the codebase, ensuring a clear understanding of the system's structure.
-		 -To enhance the website's data presentation capabilities, I integrated data visualization elements such as pie charts, bar graphs, and other visual representations.             Leveraging technologies such as D3.js and Chart.js.
-		 -In addition to the functional enhancements, I focused on improving the website's aesthetics. I applied responsive design principles, optimized the user interface               layout, and refined the color scheme and typography to create a visually appealing and cohesive look.
-						
+## Jr. Software Developer at Compport
+- Location: Bhopal, India
+- May 2021 - Jul. 2021
+
+Responsibilities:
+- Improved operational efficiency by conducting a comprehensive system analysis and recommending changes to existing policies and procedures, resulting in a 41% increase in productivity.
+- Demonstrated viable solutions by developing documentation, code comments, and clear code.
+- Programmed a chatbot using Dialogflow, increasing accessibility by 70% and reducing queries by 35%.
+
+## Software Developer Co-op at Compport
+- Location: Bhopal, India
+- May 2020 - Dec. 2020
+
+Responsibilities:
+- Conducted a comprehensive documentation process to outline the workflow and architecture of the codebase, ensuring a clear understanding of the system's structure.
+- Integrated data visualization elements such as pie charts, bar graphs, and other visual representations to enhance the website's data presentation capabilities. Leveraged technologies such as D3.js and Chart.js.
+- Focused on improving the website's aesthetics by applying responsive design principles, optimizing the user interface layout, and refining the color scheme and typography to create a visually appealing and cohesive look.
+					
 
 
 ## Recent Projects
