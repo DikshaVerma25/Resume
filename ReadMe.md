@@ -28,17 +28,19 @@
 
 ## Experience
 
-- **Software Engineer Co-op** at Radian Group Inc.
-  - Gainesville, FL
-  - May 2022 - Dec. 2022
-  - Responsibilities:
-    - Recompiled existing GraphQL and Typescript into Nest.js to make the code compatible with new node versions.
-    - Added Azure App Configuration to manage feature flags and documented it.
-    - Documented the network flow of the website for new hires, reducing redundancy of demo by 75%.
-    - Addressed and filed common errors experienced while running scripts in the local environment.
-    - Provided the network flow of the website with attribute length, datatype, and value included.
+### Software Engineer Co-op at Radian Group Inc.
+- Location: Gainesville, FL
+- May 2022 - Dec. 2022
 
-## Jr. Software Developer at Compport
+Responsibilities:
+- Recompiled existing GraphQL and Typescript into Nest.js to make the code compatible with new Node versions.
+- Added Azure App Configuration to manage feature flags and documented the process.
+- Documented the network flow of the website for new hires, reducing the redundancy of demos by 75%.
+- Addressed and filed common errors experienced while running scripts in the local environment.
+- Provided the network flow of the website with attribute length, datatype, and value included.
+
+
+### Jr. Software Developer at Compport
 - Location: Bhopal, India
 - May 2021 - Jul. 2021
 
@@ -47,7 +49,7 @@ Responsibilities:
 - Demonstrated viable solutions by developing documentation, code comments, and clear code.
 - Programmed a chatbot using Dialogflow, increasing accessibility by 70% and reducing queries by 35%.
 
-## Software Developer Co-op at Compport
+### Software Developer Co-op at Compport
 - Location: Bhopal, India
 - May 2020 - Dec. 2020
 
